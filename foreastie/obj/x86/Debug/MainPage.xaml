@@ -7,15 +7,15 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource SystemControlAcrylicWindowBrush}" d:DesignHeight="326" d:DesignWidth="414"
+    Background="{ThemeResource SystemControlAcrylicWindowBrush}" d:DesignHeight="436" d:DesignWidth="558" 
 >
 
 
 
 
 
-    <Grid>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Москва" VerticalAlignment="Top" FontSize="18" Margin="20,0,0,0"/>
+    <Grid Height="321" Width="395">
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Москва" VerticalAlignment="Top" FontSize="18" Margin="20,18,0,0"/>
         <TextBlock x:ConnectionId='2' x:Name="temp" HorizontalAlignment="Left" Margin="20,36,0,0" TextWrapping="Wrap" Text="0.0 °C" VerticalAlignment="Top" FontSize="48"/>
         <TextBlock HorizontalAlignment="Left" Margin="20,141,0,0" TextWrapping="Wrap" Text="Ветер" VerticalAlignment="Top"/>
         <TextBlock x:ConnectionId='3' x:Name="wind" HorizontalAlignment="Left" Margin="160,141,0,0" TextWrapping="Wrap" Text="0 м/c" VerticalAlignment="Top"/>
