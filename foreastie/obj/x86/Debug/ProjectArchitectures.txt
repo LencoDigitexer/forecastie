@@ -1,1 +1,1 @@
-C:\Users\lain\Documents\GitHub\foreastie\foreastie\forecastie.csproj;x86
+C:\Users\lain\Documents\GitHub\forecastie\foreastie\forecastie.csproj;x86

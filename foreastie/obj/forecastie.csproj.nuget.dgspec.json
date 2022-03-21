@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lain\\Documents\\GitHub\\foreastie\\foreastie\\forecastie.csproj": {}
+    "C:\\Users\\lain\\Documents\\GitHub\\forecastie\\foreastie\\forecastie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lain\\Documents\\GitHub\\foreastie\\foreastie\\forecastie.csproj": {
+    "C:\\Users\\lain\\Documents\\GitHub\\forecastie\\foreastie\\forecastie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lain\\Documents\\GitHub\\foreastie\\foreastie\\forecastie.csproj",
+        "projectUniqueName": "C:\\Users\\lain\\Documents\\GitHub\\forecastie\\foreastie\\forecastie.csproj",
         "projectName": "forecastie",
-        "projectPath": "C:\\Users\\lain\\Documents\\GitHub\\foreastie\\foreastie\\forecastie.csproj",
+        "projectPath": "C:\\Users\\lain\\Documents\\GitHub\\forecastie\\foreastie\\forecastie.csproj",
         "packagesPath": "C:\\Users\\lain\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lain\\Documents\\GitHub\\foreastie\\foreastie\\obj\\",
+        "outputPath": "C:\\Users\\lain\\Documents\\GitHub\\forecastie\\foreastie\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

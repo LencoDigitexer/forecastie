@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iYk3i+eD9PFQ8N0GKqouKva0RH75D7r7q/vyO/tfjcmct+8Pzgu2A5HwxCHKTTfVQVMnMfBH1EEgZd3VG7Yv9A==",
+  "dgSpecHash": "vwvoSsYR5S2Snpkcnyv1zWfjEZ/VMhvDHITjWf+gIvFC/6eRXTAWCvaCS8UzgWl8KDcIT/8okYN3zZl0hJH3EA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lain\\Documents\\GitHub\\foreastie\\foreastie\\forecastie.csproj",
+  "projectFilePath": "C:\\Users\\lain\\Documents\\GitHub\\forecastie\\foreastie\\forecastie.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.11-rel-30601-02\\microsoft.net.native.compiler.2.2.11-rel-30601-02.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.13\\microsoft.net.uwpcoreruntimesdk.2.2.13.nupkg.sha512",

@@ -16,17 +16,17 @@
 
     <Grid>
         <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Москва" VerticalAlignment="Top" FontSize="18" Margin="20,0,0,0"/>
-        <TextBlock x:Name="temp" HorizontalAlignment="Left" Margin="20,36,0,0" TextWrapping="Wrap" Text="0.0 °C" VerticalAlignment="Top" FontSize="48"/>
+        <TextBlock x:ConnectionId='2' x:Name="temp" HorizontalAlignment="Left" Margin="20,36,0,0" TextWrapping="Wrap" Text="0.0 °C" VerticalAlignment="Top" FontSize="48"/>
         <TextBlock HorizontalAlignment="Left" Margin="20,141,0,0" TextWrapping="Wrap" Text="Ветер" VerticalAlignment="Top"/>
-        <TextBlock x:Name="wind" HorizontalAlignment="Left" Margin="160,141,0,0" TextWrapping="Wrap" Text="0 м/c" VerticalAlignment="Top"/>
+        <TextBlock x:ConnectionId='3' x:Name="wind" HorizontalAlignment="Left" Margin="160,141,0,0" TextWrapping="Wrap" Text="0 м/c" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="20,161,0,0" TextWrapping="Wrap" Text="Давление" VerticalAlignment="Top"/>
-        <TextBlock x:Name="pressure" HorizontalAlignment="Left" Margin="160,161,0,0" TextWrapping="Wrap" Text="0,0 мм рт.ст." VerticalAlignment="Top"/>
+        <TextBlock x:ConnectionId='4' x:Name="pressure" HorizontalAlignment="Left" Margin="160,161,0,0" TextWrapping="Wrap" Text="0,0 мм рт.ст." VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="20,181,0,0" TextWrapping="Wrap" Text="Влажность" VerticalAlignment="Top"/>
-        <TextBlock x:Name="humidity" HorizontalAlignment="Left" Margin="160,181,0,0" TextWrapping="Wrap" Text="0 %" VerticalAlignment="Top"/>
+        <TextBlock x:ConnectionId='5' x:Name="humidity" HorizontalAlignment="Left" Margin="160,181,0,0" TextWrapping="Wrap" Text="0 %" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="20,201,0,0" TextWrapping="Wrap" Text="Восход" VerticalAlignment="Top"/>
-        <TextBlock x:Name="sunrise" HorizontalAlignment="Left" Margin="160,201,0,0" TextWrapping="Wrap" Text="00:00" VerticalAlignment="Top"/>
+        <TextBlock x:ConnectionId='6' x:Name="sunrise" HorizontalAlignment="Left" Margin="160,201,0,0" TextWrapping="Wrap" Text="00:00" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="20,221,0,0" TextWrapping="Wrap" Text="Закат" VerticalAlignment="Top"/>
-        <TextBlock x:Name="sunset" HorizontalAlignment="Left" Margin="160,221,0,0" TextWrapping="Wrap" Text="00:00" VerticalAlignment="Top"/>
+        <TextBlock x:ConnectionId='7' x:Name="sunset" HorizontalAlignment="Left" Margin="160,221,0,0" TextWrapping="Wrap" Text="00:00" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="20,100,0,0" TextWrapping="Wrap" Text="Clear sky" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="20,241,0,0" TextWrapping="Wrap" Text="УФ-индекс" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="160,241,0,0" TextWrapping="Wrap" Text="0.0" VerticalAlignment="Top"/>
@@ -34,6 +34,7 @@
     </Grid>
 
 </Page>
+
 
 
 

@@ -41,7 +41,7 @@ namespace forecastie
 
 
 
-            Uri requestUri = new Uri("https://api.openweathermap.org/data/2.5/weather?q=stavropol&appid=66803bb34c2a6e2cfe7ad7e2beb619ec&units=metric");
+            Uri requestUri = new Uri("https://api.openweathermap.org/data/2.5/weather?q=moscow&appid=66803bb34c2a6e2cfe7ad7e2beb619ec&units=metric");
 
             //Send the GET request asynchronously and retrieve the response as a string.
             Windows.Web.Http.HttpResponseMessage httpResponse = new Windows.Web.Http.HttpResponseMessage();
